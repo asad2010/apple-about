@@ -1,0 +1,76 @@
+<style> 
+    .footer {
+    }
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+    .inp {
+        background: none;
+        border: 1px solid gray;
+        border-radius: 1rem;
+        color: white;
+        padding-left: 15px;
+    }
+    .send-btn {
+        display: block;
+        background: none;
+        border: 1px solid gray;
+        border-radius: 1rem;
+        color: white;
+        transition-duration: .4s;
+        font-size: 20px;
+    }
+    .send-btn:hover {
+        background: white;
+        color: black
+    }
+</style>
+<footer class="footer mt-5">
+    <div class="container container-fluid">
+        <div class="row align-items-center ">
+            <div class="col-12 col-md-3">
+                <a href="#" class="navbar-brand text-white fs-1">
+                    Apple<span class="text-danger fs-1">About</span> 
+                </a>
+            </div>
+            <div class="col-12 col-md-3">
+                    <a class="nav-link dropdown-toggle text-white" href="#" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        Footer
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="/">Home</a></li>
+                        <li>
+                            <a href="/about" class="dropdown-item">About</a>
+                        </li>
+                        <li>
+                            <a href="/contact" class="dropdown-item">Contacts</a>
+                        </li>
+                        <li>
+                            <a href="/sorted?type=macbook" class="dropdown-item">Macbooks</a>
+                        </li>
+                        <li>
+                            <a href="/sorted?type=iphone" class="dropdown-item">Iphones</a>
+                        </li>
+                        <li>
+                            <a href="/sorted?type=mac" class="dropdown-item">Mac</a>
+                        </li>
+                        <li>
+                            <a href="/ios16" class="dropdown-item">About iOS16</a>
+                        </li>
+                    </ul>
+            </div>
+            <div class="col-12 col-md-6 d-flex gap-3 align-items-center ">
+                <h3 class="text-white text-center">Send Text To Us</h3>
+                <form action="#">
+                    <input type="text" placeholder="Your Name" class="inp">
+                    <input placeholder="Your Text" type="text" class="inp">
+                    <button class="send-btn">Send</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</footer>
+

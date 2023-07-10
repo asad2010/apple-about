@@ -1,0 +1,79 @@
+[
+    {
+        "id": "1",
+        "image": "https://assets.gqindia.com/photos/6343bda4bac0ed8f5bc20d96/16:9/pass/iPhone-14-Pro-Max-Review_02.jpg",
+        "name": "Iphone 14 pro max",
+        "type": "Iphone",
+        "price": 1199,
+        "size": [
+            "height: 160.7", 
+            "width: 77.6",
+            "depth: 7.85"
+        ],
+        "weight": 240,
+        "display": 6.7,
+        "chip": [
+            "A16 Bionic Chip",
+            "6-core CPU with 2 performance and 4 efficiency cores",
+            "5 core CPU",
+            "16-core Neural Engine"
+        ],
+        "cameras": [
+            "48MP Main: 24mm, f/1.78 aperture, second-generation sensor-shift optical image stabilization, seven-element lens, 100% Focus Pixels",
+            "12MP Ultra Wide: 13 mm, ƒ/2.2 aperture and 120° field of view, six-element lens, 100% Focus Pixels",
+            "12MP 2x Telephoto (enabled by quad-pixel sensor): 48 mm, ƒ/1.78 aperture, second-generation sensor-shift optical image stabilization, seven-element lens, 100% Focus Pixels",
+            "12MP 3x Telephoto: 77 mm, ƒ/2.8 aperture, optical image stabilization, six-element lens 3x optical zoom in, 2x optical zoom out; 6x optical zoom range; digital zoom up to 15x"
+        ]
+    },
+    {
+        "id": "2",
+        "image": "https://www.apple.com/v/iphone-14-pro/h/images/specs/hero_iphone_14_pro__fnda92wv13m2_large.jpg",
+        "name": "Iphone 14 pro",
+        "type": "Iphone",
+        "price": 999,
+        "size": [
+            "height: 147.5", 
+            "width: 71.5",
+            "depth: 7.85"
+        ],
+        "weight": 240,
+        "display": 6.1,
+        "chip": [
+            "A16 Bionic Chip",
+            "6-core CPU with 2 performance and 4 efficiency cores",
+            "5 core CPU",
+            "16-core Neural Engine"
+        ],
+        "cameras": [
+            "48MP Main: 24mm, f/1.78 aperture, second-generation sensor-shift optical image stabilization, seven-element lens, 100% Focus Pixels",
+            "12MP Ultra Wide: 13 mm, ƒ/2.2 aperture and 120° field of view, six-element lens, 100% Focus Pixels",
+            "12MP 2x Telephoto (enabled by quad-pixel sensor): 48 mm, ƒ/1.78 aperture, second-generation sensor-shift optical image stabilization, seven-element lens, 100% Focus Pixels",
+            "12MP 3x Telephoto: 77 mm, ƒ/2.8 aperture, optical image stabilization, six-element lens 3x optical zoom in, 2x optical zoom out; 6x optical zoom range; digital zoom up to 15x"
+        ]
+    },
+    {
+        "id": "3",
+        "image": "https://www.apple.com/v/macbook-air/q/images/overview/macbook_air_m1__dxctrdvvxm4i_large.jpg",
+        "name": "Macbook air 13",
+        "type": "Notebook",
+        "price": 1099,
+        "size": [
+            "height: 212.4", 
+            "width: 304.1",
+            "depth: 4.1-16.1"
+        ],
+        "weight": 1290,
+        "display": 13,
+        "chip": [
+            "Apple M2 chip",
+            "8-core CPU with 4 performance cores and 4 efficiency cores",
+            "8-core GPU",
+            "16-core Neural Engine",
+            "100GB/s memory bandwidth"
+        ],
+        "cameras": [
+            "One FaceTime HD camera",
+            "Get clear, sharp images. See amazing detail in shadows and highlights. And face detection uses the Neural Engine to improve tone mapping and color accuracy for natural‑looking skin tones."
+        ]
+    }
+]
